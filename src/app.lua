@@ -23,7 +23,6 @@ local _M = {}
 
 function _M.http_init()
     log.info("init")
-    cjson = require("cjson")
 end
 
 function _M.http_init_worker()
