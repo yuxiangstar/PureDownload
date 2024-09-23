@@ -1,0 +1,13 @@
+.idea
+.vscode
+logs/access.log
+logs/error.log
+logs/nginx.pid
+/client_body_temp
+/fastcgi_temp
+/proxy_temp/
+/scgi_temp/
+/uwsgi_temp/
+.un~
+nginx.pid
+deps
